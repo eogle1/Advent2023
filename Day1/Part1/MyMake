@@ -1,5 +1,5 @@
 all:
 	mkdir -p build
-	g++ -g -o build/day2.exe main.cpp
+	g++ -g -o build/day1part1.exe new.cpp
 clean:
 	rm -rf build
